@@ -1,5 +1,5 @@
 {
-  "name": "@openclaw/telegram",
+  "name": "@nexus-agent/telegram",
   "version": "2026.3.30",
   "private": true,
   "description": "Nexus Agent Telegram channel plugin",

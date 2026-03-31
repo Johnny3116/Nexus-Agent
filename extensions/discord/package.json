@@ -1,5 +1,5 @@
 {
-  "name": "@openclaw/discord",
+  "name": "@nexus-agent/discord",
   "version": "2026.3.30",
   "description": "Nexus Agent Discord channel plugin",
   "type": "module",
@@ -11,13 +11,13 @@
     "opusscript": "^0.1.1"
   },
   "devDependencies": {
-    "openclaw": "workspace:*"
+    "nexus-agent": "workspace:*"
   },
   "peerDependencies": {
-    "openclaw": ">=2026.3.30"
+    "nexus-agent": ">=2026.3.30"
   },
   "peerDependenciesMeta": {
-    "openclaw": {
+    "nexus-agent": {
       "optional": true
     }
   },
@@ -38,7 +38,7 @@
       "markdownCapable": true
     },
     "install": {
-      "npmSpec": "@openclaw/discord",
+      "npmSpec": "@nexus-agent/discord",
       "defaultChoice": "npm",
       "minHostVersion": ">=2026.3.30"
     },
